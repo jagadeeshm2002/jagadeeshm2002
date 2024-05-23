@@ -10,11 +10,12 @@
 
 
 <h2 align="center">About Me</h2>
-<img align="right" height="150" src="https://tenor.com/view/luffy-wano-amv-gif-24192000"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/HlaZrmo3AygAAAAC/one-piece-luffy.gif"  />
+
 <p align="center">
- Hello! My name is Mahin Malek & I enjoy creating things that live on the internet. I'm a passionate Developer, with strong administrative & communication skills, good attention to detail & the ability to write efficient code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
+ Hello! My name is Jagadeesh, and I enjoy creating things that live on the internet. I'm a passionate developer with a strong focus on modern and responsive web design. My skill set includes excellent administrative and communication abilities, keen attention to detail, and a knack for writing efficient, maintainable code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless, visually appealing websites that provide a great user experience across all devices.
 </p>
-  <h4 align="center">"I am not what happened to me, I am what I choose to become."🌟</h4>
+  <h4 align="center">"To Change the World , Change Yourself"🌟</h4>
 </div>
 
 ##
@@ -22,11 +23,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=maahin2005&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=material-palenight" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahin2005&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagadeeshm2002&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=material-palenight" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshm2002&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 <div align="center" style="margin-top: 50">
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=maahin2005&theme=midnight-purple' alt='streaks'/>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=jagadeeshm2002&theme=midnight-purple' alt='streaks'/>
 </div>
 
 ##
@@ -41,19 +42,18 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Chakra%20UI-%233197AC.svg?&style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra-UI">
   <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/Sanity-%23333333.svg?&style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity">
+
 
 </p>
 
 <h2 align="center">Get in Touch</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahin-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/jagadeesh2002/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://mahin.vercel.app/" target="_blank">
+  <a href="https://jagadeeshm-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
   </a>
 </p>
