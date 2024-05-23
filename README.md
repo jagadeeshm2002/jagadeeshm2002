@@ -1,38 +1,77 @@
-<h1 align="center">Hi 👋, I'm jagadeesh</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h2 align="center">Hi 👋! I'm Jagadeesh, from Chennai</h2> 
 
-- 🔭 I’m currently working on e-commerce project
 
-- 🌱 I’m currently learning **react,Tailwind**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jagadeeshm-portfolio.vercel.app/)
+###
 
-- 💬 Ask me about **reactjs,Javascript**
+<div align="center">
 
-- 📫 How to reach me **jagadeeshm2002@gmail.com**
+<h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/jagadeeshm2002/count.svg" height="50" alt="Profile Views"  />
 
-- <h1 align="center">Hi 👋, I'm Jagdeesh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshm2002&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshm2002" /> </p>
+<h2 align="center">About Me</h2>
+<img align="right" height="150" src="https://tenor.com/view/luffy-wano-amv-gif-24192000"  />
+<p align="center">
+ Hello! My name is Mahin Malek & I enjoy creating things that live on the internet. I'm a passionate Developer, with strong administrative & communication skills, good attention to detail & the ability to write efficient code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
+</p>
+  <h4 align="center">"I am not what happened to me, I am what I choose to become."🌟</h4>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadeeshm2002" alt="jagadeeshm2002" /></a> </p>
+##
+##
 
-- 🔭 I’m currently working on **HopeStore**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/jagadeesh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jagadeesh2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jagadeesh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeesh2002" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jagadeeshm9876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jagadeeshm9876" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=maahin2005&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=material-palenight" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahin2005&layout=compact&theme=radical" height="150" alt="languages graph"  />
+</div>
+<div align="center" style="margin-top: 50">
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=maahin2005&theme=midnight-purple' alt='streaks'/>
+</div>
+
+##
+
+
+<h2 align="center">Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Chakra%20UI-%233197AC.svg?&style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra-UI">
+  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Sanity-%23333333.svg?&style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity">
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align="center">Get in Touch</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadeeshm2002&show_icons=true&locale=en&layout=compact" alt="jagadeeshm2002" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahin-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://mahin.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadeeshm2002&show_icons=true&locale=en" alt="jagadeeshm2002" /></p>
+<p align="center">
+  Feel free to reach out for collaborations, discussions, or just to say hi!
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeeshm2002&" alt="jagadeeshm2002" /></p>
+###
 
+<h1 align='center' >Thank You for Visiting My GitHub Profile! 👋</h1>
+
+<p align="center">
+  🚀 Let's connect and collaborate on exciting projects together!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Connect%20with%20Me-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Connect with Me">
+</p>
+
+###
