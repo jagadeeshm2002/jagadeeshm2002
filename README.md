@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/jagadeeshm2002/count.svg" height="50" alt="Profile Views"  />
-
 
 <h2 align="center">About Me</h2>
 <img align="right" height="150" src="https://media1.tenor.com/m/HlaZrmo3AygAAAAC/one-piece-luffy.gif"  />
