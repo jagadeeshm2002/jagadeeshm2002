@@ -11,22 +11,11 @@
   </a>
 </p>
 
-<p align="center">
-  Feel free to reach out for collaborations, discussions, or just to say hi!
-</p>
-
-###
-<div align="center">
- <h4 align="center">"To Change the World , Change Yourself"🌟</h4>
-</div>
-
 
 <p align="center">
   🚀 Let's connect and collaborate on exciting projects together!
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Connect%20with%20Me-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Connect with Me">
-</p>
-
 ###
+<div align="center">
+ <h4 align="center">"To Change the World , Change Yourself"🌟</h4>
+</div>
