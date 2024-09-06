@@ -1,34 +1,5 @@
 <h2 align="center">Hi 👋! I'm Jagadeesh, from Chennai</h2> 
 
-
-
-###
-
-<div align="center">
-
-
-
-
-
-  <h4 align="center">"To Change the World , Change Yourself"🌟</h4>
-</div>
-
-##
-##
-
-<div align="center">
-
-  
-</div>
-
-
-##
-
-
-<h2 align="center">Skills</h2>
-
-
-
 <h2 align="center">Get in Touch</h2>
 
 <p align="center">
@@ -45,7 +16,9 @@
 </p>
 
 ###
-
+<div align="center">
+ <h4 align="center">"To Change the World , Change Yourself"🌟</h4>
+</div>
 
 
 <p align="center">
